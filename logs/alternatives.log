@@ -1,0 +1,4 @@
+update-alternatives 2017-01-08 15:01:42: run with --install /usr/bin/php php /usr/bin/php5 50 --slave /usr/share/man/man1/php.1.gz php.1.gz /usr/share/man/man1/php5.1.gz
+update-alternatives 2017-01-08 15:01:42: link group php updated to point to /usr/bin/php5
+update-alternatives 2017-01-08 15:22:04: run with --install /usr/bin/php php /usr/bin/php5 50 --slave /usr/share/man/man1/php.1.gz php.1.gz /usr/share/man/man1/php5.1.gz
+update-alternatives 2017-01-08 15:22:04: link group php updated to point to /usr/bin/php5

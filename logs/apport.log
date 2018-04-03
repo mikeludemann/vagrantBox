@@ -1,0 +1,9 @@
+ERROR: apport (pid 8863) Sun Jan  8 15:02:03 2017: called for pid 8862, signal 11, core limit 0
+ERROR: apport (pid 8863) Sun Jan  8 15:02:03 2017: executable: /bin/whiptail (command line "whiptail --backtitle Package\ configuration --title Configuring\ mysql-server-5.5 --output-fd 11 --nocancel --passwordbox -- While\ not\ mandatory,\ it\ is\ highly\ recommended\ that\ you\ set\ a\ password\ 
+for\ the\ MySQL\ administrative\ "root"\ user.
+
+If\ this\ field\ is\ left\ blank,\ the\ password\ will\ not\ be\ changed.
+
+New\ password\ for\ the\ MySQL\ "root"\ user: 13 75")
+ERROR: apport (pid 8863) Sun Jan  8 15:02:03 2017: is_closing_session(): no DBUS_SESSION_BUS_ADDRESS in environment
+ERROR: apport (pid 8863) Sun Jan  8 15:02:03 2017: wrote report /var/crash/_bin_whiptail.0.crash

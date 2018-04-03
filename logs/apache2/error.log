@@ -1,0 +1,18 @@
+[Sun Jan 08 15:01:33.577186 2017] [mpm_event:notice] [pid 6502:tid 140291167397760] AH00489: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Sun Jan 08 15:01:33.577966 2017] [core:notice] [pid 6502:tid 140291167397760] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Jan 08 15:01:44.371589 2017] [mpm_event:notice] [pid 6502:tid 140291167397760] AH00491: caught SIGTERM, shutting down
+[Sun Jan 08 15:01:45.439157 2017] [mpm_prefork:notice] [pid 8035] AH00163: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Sun Jan 08 15:01:45.440861 2017] [core:notice] [pid 8035] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Jan 08 15:01:46.699744 2017] [mpm_prefork:notice] [pid 8035] AH00169: caught SIGTERM, shutting down
+[Sun Jan 08 15:01:47.805748 2017] [mpm_prefork:notice] [pid 8111] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.20 configured -- resuming normal operations
+[Sun Jan 08 15:01:47.806400 2017] [core:notice] [pid 8111] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Jan 08 15:12:29.355454 2017] [mpm_prefork:notice] [pid 8111] AH00169: caught SIGTERM, shutting down
+[Sun Jan 08 15:21:54.648464 2017] [mpm_event:notice] [pid 6499:tid 140669300238208] AH00489: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Sun Jan 08 15:21:54.649026 2017] [core:notice] [pid 6499:tid 140669300238208] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Jan 08 15:22:06.013862 2017] [mpm_event:notice] [pid 6499:tid 140669300238208] AH00491: caught SIGTERM, shutting down
+[Sun Jan 08 15:22:07.082357 2017] [mpm_prefork:notice] [pid 8032] AH00163: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Sun Jan 08 15:22:07.084183 2017] [core:notice] [pid 8032] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Jan 08 15:22:08.332326 2017] [mpm_prefork:notice] [pid 8032] AH00169: caught SIGTERM, shutting down
+[Sun Jan 08 15:22:09.439349 2017] [mpm_prefork:notice] [pid 8108] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.20 configured -- resuming normal operations
+[Sun Jan 08 15:22:09.439954 2017] [core:notice] [pid 8108] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Jan 08 15:26:06.305605 2017] [mpm_prefork:notice] [pid 8108] AH00169: caught SIGTERM, shutting down
